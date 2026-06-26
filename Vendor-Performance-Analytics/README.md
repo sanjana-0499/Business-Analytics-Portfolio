@@ -1,5 +1,12 @@
 # 📊 Vendor Performance Analytics Dashboard
 
+## 🚀 Project Highlights
+✔ Built an interactive Power BI dashboard
+✔ Analyzed 6+ vendor performance KPIs
+✔ Identified top-performing and low-performing vendor
+✔ Monitored profitability and inventory trends
+✔ Enabled data-driven procurement decisions
+
 ## 📌 Project Overview
 Developed an interactive Power BI dashboard to analyze vendor performance, inventory trends, profitability, and purchasing patterns. The dashboard enables business users to monitor vendor KPIs and make data-driven procurement decisions.
 
@@ -93,5 +100,17 @@ Developed an interactive Power BI dashboard to analyze vendor performance, inven
 - Business Insights
 - Data Analysis
 - Stakeholder Reporting
+
+- ## ⚙ Technical Implementation
+
+Power Query,
+Data Cleaning,
+Data Transformation,
+DAX Measures,
+Data Modeling,
+Relationships,
+Interactive Filters,
+Slicers,
+Drill Through,
 
 
