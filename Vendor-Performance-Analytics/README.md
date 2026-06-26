@@ -111,6 +111,12 @@ Data Modeling,
 Relationships,
 Interactive Filters,
 Slicers,
-Drill Through,
+Drill Through
+
+---
+
+## 📥 Download Power BI Dashboard
+
+👉 [Download the Power BI Dashboard](Vendor_Performance_analysis_dashboard.pbix)
 
 
